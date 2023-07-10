@@ -39,6 +39,7 @@ body{
     
     
     
+    
 
 }
 
@@ -66,3 +67,82 @@ body{
 }
 
 /* header end  */
+
+/* main start  */
+
+.hotedeal-contener{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    gap: 30px;
+    padding: 100px 400px;
+}
+
+.hotdeal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    width: 537px;
+    height: 48px;
+    padding-bottom: 24px;
+    text-align: center;
+
+}
+.hotedeal-text{
+    width: 594px;
+    height: 60px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;  
+
+
+}
+.hotdeal-section{
+    background-color:#E554730D;
+   
+}
+
+.hotdeal-img{
+    height: 420px;
+    width: 318px;
+}
+
+/* section instragram  */
+
+.instagram-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-bottom: 24px;
+    padding-top: 128px;
+    text-align: center;
+}
+
+.instagram-description{
+    text-align: center;
+    padding-bottom: 48px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.instragram-img{
+    display: flex;
+    gap: 24px;
+    padding-bottom: 128px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
