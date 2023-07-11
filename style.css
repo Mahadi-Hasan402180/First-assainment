@@ -210,7 +210,7 @@ body{
     
     padding-left:240px ;
     padding-right: 240px;
-    padding-bottom: 30px;
+    padding-bottom: 128px;
     
     
 }
@@ -225,20 +225,40 @@ font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
 padding-top: 32px;
+padding-bottom: 160px;
 }
-   
-.del-contact input[type="email"]{
 
-    text-align: center;
+/* leatest-del section  */
+
+.del-contact input[type="email"]{
     border-radius: 8px;
     background: #FFF;
     width: 700px;
     height: 64px;
-
-
-
-
+    font-size: 16px;
+  
 }
+.del-contact{
+    text-align: center;
+}
+
+
+
+.leatest-del{
+   
+    background-image: url('Rectangle\ 9.png');
+    width: 1440px;
+    height: 449px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-bottom: 128px;
+   
+}
+
+   
+
 
 
 
