@@ -145,10 +145,100 @@ body{
     padding-bottom: 128px;
     padding-left: 240px;
     padding-right: 240px;
+    padding-top: 20px; ;
     
 }
 .image-insta{
     width: 342px;
     height: 392px;
+}
+
+
+/* section feature-img   */
+
+
+.flawer-conteiner{
+    display: flex;
+    gap: 24px;
+}
+.feature-box{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+   
+}
+.fauter-img{
+    width: 310px;
+    height: 428px;
+    padding: 110px 78px 0px 76px;
+}
+
+
+.feature-box-two{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
 
 }
+
+.fauter-img-two{
+    width: 370px;
+    height: 370px;
+    padding: 117px 47px 51px 47px;
+   
+}
+.feature-box-three{
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+   
+    
+}
+
+.fauter-img-three{
+    width: 314px;
+    height: 471px;
+    padding: 67px 75px 0px 75px;
+   
+}
+
+.flawer-conteiner{
+    
+    padding-left:240px ;
+    padding-right: 240px;
+    padding-bottom: 30px;
+    
+    
+}
+
+.flawer-name{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+padding-top: 32px;
+}
+   
+.del-contact input[type="email"]{
+
+    text-align: center;
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 64px;
+
+
+
+
+}
+
+
+
